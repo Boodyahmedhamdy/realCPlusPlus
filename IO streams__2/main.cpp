@@ -14,7 +14,7 @@ int main()
     std::ofstream file;
 
     file.open(fileName + ".txt");
-    file << fileName <<endl << "ahmed hassan koky" << endl;
+    file << fileName <<endl << "something" << endl;
 
     return 0;
 }
